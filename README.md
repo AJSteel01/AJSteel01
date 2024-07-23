@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajsteel01&label=Profile%20views&color=0e75b6&style=flat" alt="ajsteel01" /> </p>
 
-- 🔭 I’m currently working on **Blog Website**
+- 🔭 I’m currently working on **Data Analytics Project**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 🤝 I’m looking for help with [WebDraw](https://github.com/AJSteel01/web-draw)
 
-- 💬 Ask me about **Web Development , Software Engineering Trends and Technologies**
+- 💬 Ask me about **Web Development , Data Analytics, Software Engineering Trends and Technologies**
 
 - 📫 How to reach me **abhigyanworks.2021@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ODeE9amCmoCuE-1qSQgJzBULyaH_Ep3y/view?usp=sharing](https://drive.google.com/file/d/1ODeE9amCmoCuE-1qSQgJzBULyaH_Ep3y/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Tl4FRoAI-v1IzQ5YU4KiHCp3BryfXWDB/view?usp=sharing](https://drive.google.com/file/d/1Tl4FRoAI-v1IzQ5YU4KiHCp3BryfXWDB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
